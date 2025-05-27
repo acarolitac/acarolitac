@@ -1,4 +1,4 @@
-## 👋 Olá! Me chamo Ana Carolina Itacarambi Araujo
+## 👋 Olá! Me chamo Ana Carolina
 
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no Instituto Federal de Brasília (IFB).  
 🎯 **Desenvolvimento Front-End**, **UX/UI Design**, **Banco de Dados** e **SQL**.  

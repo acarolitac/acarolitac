@@ -27,7 +27,7 @@
   🛠️ Tecnologias: React Native, Firebase.
 
 - **🧠 Monitoria em Banco de Dados I e II**  
-  Apoio a estudantes em atividades práticas e teóricas, reforçando conteúdos relacionados a **modelagem, SQL e gestão de dados**.
+  Apoio a estudantes em atividades práticas e teóricas.
 
 - **💡 T-Share**  
   Sistema para **gestão de substituições de aulas** entre professores do Instituto Federal de Brasília – Campus São Sebastião.  

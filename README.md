@@ -3,7 +3,7 @@
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no Instituto Federal de Brasília (IFB).  
 🎯 **Desenvolvimento Front-End**, **UX/UI Design**, **Banco de Dados** e **SQL**.  
 
-### 💻 Tecnologias:
+### 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
@@ -12,7 +12,7 @@
 - Python
 - UX/UI Design
 
-### 💻 Ferramentas:
+### 💻 Ferramentas
 - Visual Studio Code
 - GitHub | GIT | GitLab
 - Figma

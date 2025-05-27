@@ -33,7 +33,6 @@
   Sistema para **gestão de substituições de aulas** entre professores do Instituto Federal de Brasília – Campus São Sebastião.  
   🛠️ Tecnologias: HTML, CSS, JavaScript, Python, Flask.
 
-### 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/)  
 
 ---

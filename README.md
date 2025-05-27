@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Olá! Me chamo Ana Carolina Itacarambi Araujo
 
-<!--
-**acarolitac/acarolitac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Tecnologia em Sistemas para Internet** no Instituto Federal de Brasília (IFB).  
+🎯 **desenvolvimento Front-End**, **UX/UI Design**, **Banco de Dados** e **SQL**.  
 
-Here are some ideas to get you started:
+### 💻 Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React | React Native
+- SQL
+- Python
+- UX/UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Ferramentas:
+- Visual Studio Code
+- GitHub | GIT | GitLab
+- Figma
+- Android Studio
+- Adobe Illustrator
+- Adobe Photoshop
+
+### 🚀 Experiências e Alguns Projetos
+
+- **📱 MedDocs**  
+  Aplicativo de **prontuário eletrônico** desenvolvido para profissionais da saúde que atuam em **atenção domiciliar**.  
+  🛠️ Tecnologias: React Native, Firebase.
+
+- **🧠 Monitoria em Banco de Dados I e II**  
+  Apoio a estudantes em atividades práticas e teóricas, reforçando conteúdos relacionados a **modelagem, SQL e gestão de dados**.
+
+- **💡 T-Share**  
+  Sistema para **gestão de substituições de aulas** entre professores do Instituto Federal de Brasília – Campus São Sebastião.  
+  🛠️ Tecnologias: HTML, CSS, JavaScript, Python, Flask.
+
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/)  
+
+---

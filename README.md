@@ -1,7 +1,7 @@
 ## 👋 Olá! Me chamo Ana Carolina
 
 🎓 Graduada em **Tecnologia em Sistemas para Internet** pelo Instituto Federal de Brasília (IFB).  
-🎯 **Desenvolvimento Front-End**, **UX/UI Design**, **Banco de Dados** e **SQL**.  
+🎯 **Desenvolvimento Front-End**, **UX/UI Design** e **Banco de Dados**.  
 
 ### 💻 Tecnologias
 - HTML

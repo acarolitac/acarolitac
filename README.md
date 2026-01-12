@@ -2,7 +2,7 @@
 
 ### 🎓 Formação & Foco
 **Tecnóloga em Sistemas para Internet** pelo Instituto Federal de Brasília (IFB)  
-🎯 ** Análise de Dados** | Transformando dados em insights
+🎯 **Análise de Dados** | Transformando dados em insights
 
 ---
 
@@ -29,7 +29,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 
-## 📫 **Vamos nos conectar!**
+### **Contato**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/)  
 
 ---

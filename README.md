@@ -1,4 +1,4 @@
-# Olá, sou a Ana Carolina Itacarambi! Bem-vindo(a) ao meu perfil no GitHub :)
+# Olá, sou a Ana Carolina Itacarambi! :)
 
 ### 🎓 Formação & Foco
 **Tecnóloga em Sistemas para Internet** pelo Instituto Federal de Brasília (IFB)  

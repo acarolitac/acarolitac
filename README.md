@@ -1,4 +1,4 @@
-# Olá, sou a Ana Carolina Itacarambi! :)
+# Olá, sou a Ana Carolina Itacarambi!
 
 ### 🎓 Formação & Foco
 **Tecnóloga em Sistemas para Internet** pelo Instituto Federal de Brasília (IFB)  
@@ -23,12 +23,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Prototipação](https://img.shields.io/badge/Prototipação-FF6B6B?style=flat)
 ![UI/UX Design](https://img.shields.io/badge/UI/UX-430098?style=flat)
-
-#### **🔧 Ferramentas & Versionamento**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-
 
 ### **Contato**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/)  

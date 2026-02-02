@@ -50,17 +50,17 @@ Explore meus **projetos** de **análise de dados** e **dashboards interativos**!
 
 **Vamos conversar?**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/" title="LinkedIn" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/" target="_blank">
+      <img 
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+        alt="LinkedIn"
+      />
+    </a>
 
   <a href="mailto:anacarolinaitacarambi@gmail.com" title="Gmail">
     <img 
-      src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Gmail"
     />
   </a>

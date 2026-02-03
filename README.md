@@ -37,8 +37,6 @@ Estou em constante aprendizado e aberta a desafios que contribuam para meu cresc
 
 ## 📁 **Portfólio**
 
-Explore meus **projetos** de **análise de dados** e **dashboards interativos**!
-
 <div align="center">
 
 ### 🔗 **Links Diretos**

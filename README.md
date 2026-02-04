@@ -6,9 +6,9 @@
 
 </div>
 
-**Tecnóloga em Sistemas para Internet**, em transição para a área de **Análise de Dados**, com experiência prática em **ETL**, **análise exploratória (EDA)** e **criação de dashboards**. Atuo em projetos utilizando **Python**, **SQL** e ferramentas de **BI**, transformando dados em insights acionáveis.
+**Tecnóloga em Sistemas para Internet**, em transição para a área de **Análise de Dados**, com experiência em projetos envolvendo **ETL**, **análise exploratória (EDA)** e **criação de dashboards**.
 
-Estou em constante aprendizado e aberta a desafios que contribuam para meu crescimento profissional. Busco uma oportunidade como **Analista de Dados Júnior** para aplicar habilidades técnicas e visão analítica em ambientes **data-driven**.
+Atuo com Python (Pandas), SQL e ferramentas de BI, aplicadas à organização, análise e visualização de dados com foco na geração de insights.
 
 ## 💻 **Tecnologias & Ferramentas**
 

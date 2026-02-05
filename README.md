@@ -8,8 +8,6 @@
 
 **Tecnóloga em Sistemas para Internet**, em transição para a área de **Análise de Dados**, com experiência em projetos envolvendo **ETL**, **análise exploratória (EDA)** e **criação de dashboards**.
 
-Atuo com Python (Pandas), SQL e ferramentas de BI, aplicadas à organização, análise e visualização de dados com foco na geração de insights.
-
 ## 💻 **Tecnologias & Ferramentas**
 
 ### 

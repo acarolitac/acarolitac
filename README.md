@@ -28,16 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📁 **Portfólio**
-
-<div align="center">
-
-### 🔗 **Links Diretos**
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-FF9EB5?style=for-the-badge)](https://seu-portfolio.com)
-
-</div>
-
 ## **📬 Contato**
 
 **Vamos conversar?**

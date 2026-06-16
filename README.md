@@ -6,7 +6,7 @@
 
 </div>
 
-**Tecnóloga em Sistemas para Internet**, em transição para a área de **Análise de Dados**, com experiência em projetos envolvendo **ETL**, **análise exploratória (EDA)** e **criação de dashboards**.
+**Tecnóloga em Sistemas para Internet**, em transição para a área de **Dados**, com experiência em projetos envolvendo **ETL**, **análise exploratória (EDA)** e **criação de dashboards**.
 
 ## 💻 **Tecnologias & Ferramentas**
 

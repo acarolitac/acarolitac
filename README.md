@@ -30,8 +30,6 @@
 
 ## **📬 Contato**
 
-**Vamos conversar?**
-
   <p align="left">
     <a href="https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/" target="_blank">
       <img 

@@ -11,7 +11,7 @@
 ## 💼 **Portfólio**
 
   <a href="https://acarolitac.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-557AE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🔗_Acessar_Portfólio-557AE2?style=for-the-badge" />
   </a>
 
 ## 💻 **Tecnologias & Ferramentas**
